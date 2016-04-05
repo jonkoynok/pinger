@@ -1,0 +1,2 @@
+00 30 12 * * * node backup_databse.js
+00 * * * * * curl -s www.google.com | grep -oh setTimeout
